@@ -17,7 +17,7 @@ List and briefly explain the phases of the Software Development Life Cycle.
 3) Implementation : This means writing the code and building the software according to the design created.
 4) Testing : This means checking if the software meets qaulity standards and fixing errors if it doesn't.
 5) Deployment : This means releasing the software to users.
-6) Maintenance : This means updating the software to keep it running smoothly after deployment
+6) Maintenance : This means updating the software to keep it running smoothly after deployment.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 Similarity : They are both software development methodologies which aim to deliver working software applications and systems.
